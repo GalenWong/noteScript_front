@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "685f8c141ff8c0b891d2842a39962e06"
+build_time: [1522616129, 681937000]
+inputs:
+  "/Users/galenw/Documents/MISC/reBorn/note++/note++/noteTakingViewController.swift": [1522610655, 0]
+  "/Users/galenw/Documents/MISC/reBorn/note++/note++/analyzeViewController.swift": [1522616129, 0]
+  "/Users/galenw/Documents/MISC/reBorn/note++/note++/noteCellTableViewCell.swift": [1522453452, 0]
+  "/Users/galenw/Documents/MISC/reBorn/note++/note++/ViewController.swift": [1522575995, 0]
+  "/Users/galenw/Documents/MISC/reBorn/note++/note++/AppDelegate.swift": [1522291413, 0]
+  "/Users/galenw/Documents/MISC/reBorn/note++/project4/note++/Build/Intermediates.noindex/note++.build/Debug-iphonesimulator/note++.build/DerivedSources/CoreDataGenerated/note_/Note+CoreDataClass.swift": [1522483179, 0]
+  "/Users/galenw/Documents/MISC/reBorn/note++/project4/note++/Build/Intermediates.noindex/note++.build/Debug-iphonesimulator/note++.build/DerivedSources/CoreDataGenerated/note_/Note+CoreDataProperties.swift": [1522483179, 0]
+  "/Users/galenw/Documents/MISC/reBorn/note++/project4/note++/Build/Intermediates.noindex/note++.build/Debug-iphonesimulator/note++.build/DerivedSources/CoreDataGenerated/note_/note_+CoreDataModel.swift": [1522483179, 0]
